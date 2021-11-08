@@ -1,10 +1,8 @@
-Welcome to Lumache's documentation!
-===================================
+Willkommen bei der Dokumentation von Waldkarten.de!
+===================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Waldkarten.de** ist das kostenfreie zugängliche Geoportal des `Landeszentrum Wald Sachsen-Anhalt <https://landeszentrumwald.sachsen-anhalt.de/>`_.
+Es bietet die Möglichkeit sich über aktuelle Themen des Waldes zu informieren und Analysen hinsichtlich des Zustandes des Waldes durchzuführen.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
