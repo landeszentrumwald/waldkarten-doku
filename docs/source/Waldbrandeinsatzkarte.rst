@@ -1,4 +1,0 @@
-.. Waldbrandeinsatzkarte::
-
-Waldbrandeinsatzkarten
-======================
